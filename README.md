@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Divyanshu</h1>
 
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Reach me at **divyanshu.iiitm@gmail.com**
 
 - 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
 
