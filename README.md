@@ -29,10 +29,10 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
 <!-- BLOG-POST-LIST:START -->
-- [Have you seen this sexy button?](https://dev.to/rahuldkjain/have-you-seen-this-sexy-button-2ijn)
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
+- [Have you seen this sexy button?](https://forem.com/rahuldkjain/have-you-seen-this-sexy-button-2ijn)
+- [How I improved my GitHub profile?](https://forem.com/rahuldkjain/how-i-improved-my-github-profile-480c)
+- [Awesome FrontendMasters course resources](https://forem.com/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
+- [How to start and promote your open-source project?](https://forem.com/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
